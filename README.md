@@ -1,3 +1,4 @@
+![logo](https://github.com/maheshbalegouda/maheshbalegouda/blob/main/52dc49a8-5dc2-4d8f-b6b1-a09064973a7c.webp)
 <h1 align="center">Hi 👋, I'm Mahesh B</h1>
 <h3 align="center">A passionate Python Developer from India</h3>
 
