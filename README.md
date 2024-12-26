@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshbalegouda&label=Profile%20views&color=0e75b6&style=flat" alt="maheshbalegouda" /> </p>
 
-- 🔭 I’m currently working on **Prwatech**
+- 🔭 My Last Company is **Prwatech** , Here I worked **10 Months ** as a **Python Developer**.
 
 - 📫 How to reach me **maheshbalegouda@gmail.com**
 
